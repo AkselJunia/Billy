@@ -1,0 +1,5 @@
+id,event title,event start date,event end date,name of the location hosting the event (optional),address of the location,total ticket number,maximum tickets per user,sale start date,line up (optional),event image or video url (mp4 or png or jpeg)
+4,Coldplay World Tour,29/07/2022 20:30,30/07/2022 01:00,Stade de France,93200 Saint-Denis,10000,6,04/05/2022,,https://coldplay.com/coldplay_asset.mp4
+3,Meetup Crafting Data Science,21/07/2022 18:30,21/07/2022 22:00,,34 avenue de l'Opéra 75008,60,2,04/07/2022,,https://meetup_files.com/meetup.mp4
+2,Web3 Builders Meetup #4,19/07/2022 18:30,19/07/2022 21:30,PyratzLabs,7 rue Pablo Neruda 92300,100,2,10/07/2022,,https://meetup_files/PTZL_GLB.glb
+1,Mouse Party,10/07/2022 18:30,11/07/2022 01:00,L'Astrolabe,1 Rue Alexandre Avisse 45000 Orléans,500,5,01/07/2022,Mehdi Maïzi-Rad Cartier-Squidji,https://photos.com/mouseparty.png

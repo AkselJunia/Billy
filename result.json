@@ -1,0 +1,94 @@
+[
+    {
+        "eventId": 1,
+        "title": "Mouse Party",
+        "startDatetime": "10/07/2022 18:30",
+        "endDatetime": "11/07/2022 01:00",
+        "address": "1 Rue Alexandre Avisse 45000 Orléans",
+        "locationName": "L'Astrolabe",
+        "totalTicketsCount": 500,
+        "assetUrl": "https://photos.com/mouseparty.png",
+        "lineUp": [
+            "Mehdi Maïzi",
+            "Rad Cartier",
+            "Squidji"
+        ],
+        "ticketCollections": [
+            {
+                "collectionName": "Mouse On",
+                "scAddress": "KT1AKqxCJH9EPimNm1wo1BEgG9bFRgptJwkk",
+                "collectionAddress": "KT1Apf8CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+                "pricePerToken": 4,
+                "maxMintPerUser": 5,
+                "saleSize": 500
+            }
+        ]
+    },
+    {
+        "eventId": 2,
+        "title": "Web3 Builders Meetup #4",
+        "startDatetime": "19/07/2022 18:30",
+        "endDatetime": "19/07/2022 21:30",
+        "address": "7 rue Pablo Neruda 92300",
+        "locationName": "PyratzLabs",
+        "totalTicketsCount": 100,
+        "assetUrl": "https://meetup_files/PTZL_GLB.glb",
+        "ticketCollections": [
+            {
+                "collectionName": "Web 3 Classic Collection",
+                "scAddress": "KT1BKqxCJH9EPimNm1wo1BEgG9bFRgptJwop",
+                "collectionAddress": "KT1Gpf8CPkYBe3bRuTCET6A4NhnosX2BAnp6",
+                "pricePerToken": 0,
+                "maxMintPerUser": 2,
+                "saleSize": 100
+            }
+        ]
+    },
+    {
+        "eventId": 3,
+        "title": "Meetup Crafting Data Science",
+        "startDatetime": "21/07/2022 18:30",
+        "endDatetime": "21/07/2022 22:00",
+        "address": "34 avenue de l'Opéra 75008",
+        "totalTicketsCount": 60,
+        "assetUrl": "https://meetup_files.com/meetup.mp4",
+        "ticketCollections": [
+            {
+                "collectionName": "Standard meetup tickets",
+                "scAddress": "KT1CKqxCJH9EPimNm1wo1BEgG9bFRgptJwop",
+                "collectionAddress": "KT1Lpf8CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+                "pricePerToken": 0,
+                "maxMintPerUser": 2,
+                "saleSize": 60
+            }
+        ]
+    },
+    {
+        "eventId": 4,
+        "title": "Coldplay World Tour",
+        "startDatetime": "29/07/2022 20:30",
+        "endDatetime": "30/07/2022 01:00",
+        "address": "93200 Saint-Denis",
+        "locationName": "Stade de France",
+        "totalTicketsCount": 10000,
+        "assetUrl": "https://coldplay.com/coldplay_asset.mp4",
+        "ticketCollections": [
+            {
+                "collectionName": "Seated tickets collection",
+                "scAddress": "KT1h6KxCJH9EPimNm19ifBEgG9bFRgptJLk7",
+                "collectionAddress": "KT2DV68CPkYBe3bRuTCET6A4NhnosX2BAlo8",
+                "pricePerToken": 50,
+                "maxMintPerUser": 6,
+                "saleSize": 5000
+            },
+            {
+                "collectionName": "Seated tickets collection",
+                "scAddress": "KT1h6KxCJH9EPimNm19ifBEgG9bFRgptJLk7",
+                "collectionAddress": "KT2DV68CPkYBe3bRuTCET6A4NhnosX2BAlo8",
+                "pricePerToken": 50,
+                "maxMintPerUser": 6,
+                "saleSize": 5000
+            }
+        ]
+    }
+]

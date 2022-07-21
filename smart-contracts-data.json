@@ -1,0 +1,107 @@
+[
+    {
+        "event_id": 1,
+        "collection_name": "Mouse On",
+        "smart_contract": {
+            "crowdsale": "KT1AKqxCJH9EPimNm1wo1BEgG9bFRgptJwkk",
+            "collection": "KT1Apf8CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+            "multisig": "KT1Aer6TxNwoMJejoqsNP8TEN7J6STgMtJcA",
+            "sale_params": {
+                "is_presale": false,
+                "metadata_list": [],
+                "price_per_token": 4,
+                "max_mint_per_user": 5,
+                "sale_size": 500,
+                "sale_currency": {
+                    "xtz": null
+                },
+                "start_time": 1656626400,
+                "end_time": 1657490400
+            }
+        }
+    },
+    {
+        "event_id": 2,
+        "collection_name": "Web 3 Classic Collection",
+        "smart_contract": {
+            "crowdsale": "KT1BKqxCJH9EPimNm1wo1BEgG9bFRgptJwop",
+            "collection": "KT1Gpf8CPkYBe3bRuTCET6A4NhnosX2BAnp6",
+            "multisig": "KT1Itr6TxNwoMJejoqsNP8TEN7J6STgMtJcP",
+            "sale_params": {
+                "is_presale": false,
+                "metadata_list": [],
+                "price_per_token": 0,
+                "max_mint_per_user": 2,
+                "sale_size": 100,
+                "sale_currency": {
+                    "xtz": null
+                },
+                "start_time": 1657404000,
+                "end_time": 1658181600
+            }
+        }
+    },
+    {
+        "event_id": 3,
+        "collection_name": "Standard meetup tickets",
+        "smart_contract": {
+            "crowdsale": "KT1CKqxCJH9EPimNm1wo1BEgG9bFRgptJwop",
+            "collection": "KT1Lpf8CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+            "multisig": "KT1Ltr5TxNwoMJejoqsNP8TEN7J6STgMtJcF",
+            "sale_params": {
+                "is_presale": false,
+                "metadata_list": [],
+                "price_per_token": 0,
+                "max_mint_per_user": 2,
+                "sale_size": 60,
+                "sale_currency": {
+                    "xtz": null
+                },
+                "start_time": 1656885600,
+                "end_time": 1658354400
+            }
+        }
+    },
+    {
+        "event_id": 4,
+        "collection_name": "Standing tickets collection",
+        "smart_contract": {
+            "crowdsale": "KT1ffDxCJH9EPimNm19ifBEgG9bFRgptJwop",
+            "collection": "KT2jH58CPkYBe3bRuTCET6A4NhnosX2BAnp9",
+            "multisig": "KT1T7UyTxNwoMJejoqsNP8TEN7J6STgMtJ89",
+            "sale_params": {
+                "is_presale": false,
+                "metadata_list": [],
+                "price_per_token": 50,
+                "max_mint_per_user": 6,
+                "sale_size": 5000,
+                "sale_currency": {
+                    "xtz": null
+                },
+                "start_time": 1651615200,
+                "end_time": 1659045600
+            }
+        }
+    },
+    {
+        "event_id": 4,
+        "collection_name": "Seated tickets collection",
+        "smart_contract": {
+            "crowdsale": "KT1h6KxCJH9EPimNm19ifBEgG9bFRgptJLk7",
+            "collection": "KT2DV68CPkYBe3bRuTCET6A4NhnosX2BAlo8",
+            "multisig": "KT17HUyTxNwoMJejoqsNP8TEN7J6STgMt40H",
+            "sale_params": {
+                "is_presale": false,
+                "metadata_list": [],
+                "price_per_token": 50,
+                "max_mint_per_user": 6,
+                "sale_size": 5000,
+                "sale_currency": {
+                    "xtz": null
+                },
+                "start_time": 1651615200,
+                "end_time": 1659045600
+            }
+        }
+    }
+]
